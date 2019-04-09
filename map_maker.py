@@ -2,9 +2,14 @@ import folium
 import pandas
 import csv
 
-folium_map = folium.Map(location=[40, 51],
-            zoom_start=5,
-            tiles='OpenStreetMap')
+
+
+folium_map = folium.Map(location=[-25, 30],
+                        zoom_start=5,
+                        tiles='OpenStreetMap')
+#folium_map = folium.Map(location=[40, 51],
+#            zoom_start=5,
+#            tiles='OpenStreetMap')
 with open('my_places.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
