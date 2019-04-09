@@ -1,9 +1,9 @@
 from zipfile import ZipFile
 
-filename = 'my_places.kmz'
+filename = 'my_places1.kmz'
 
 kmz = ZipFile(filename, 'r')
-kml = kmz.open('My Places.kml', 'r')
+kml = kmz.open('My Places1.kml', 'r')
 
 import xml.sax, xml.sax.handler
 class PlacemarkHandler(xml.sax.handler.ContentHandler):
@@ -71,7 +71,7 @@ def build_table(mapping):
     return output
 
 outstr = build_table(handler.mapping)
-out_filename = filename[:-3] + "csv" #output filename same as input plus .csv
+out_filename = '1' + filename[:-3] + "csv" #output filename same as input plus .csv
 f = open(out_filename, "w")
 f.write(outstr)
 f.close()

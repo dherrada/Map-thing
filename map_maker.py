@@ -17,4 +17,4 @@ with open('my_places.csv') as csv_file:
             marker.add_to(folium_map)
             line_count+=1
     print(f'Processed {line_count} lines.')
-folium_map.save("my_map.html")
+folium_map.save("2017.html")
