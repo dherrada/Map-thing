@@ -57,6 +57,7 @@
       </Icon>
     </IconStyle>
   </Style>
+  <name>My Places1</name>
   <visibility>1</visibility>
   <ExtendedData xmlns:mwm="https://maps.me">
     <mwm:name>

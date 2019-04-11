@@ -57,8 +57,14 @@
       </Icon>
     </IconStyle>
   </Style>
+  <name>My Places</name>
   <visibility>1</visibility>
   <ExtendedData xmlns:mwm="https://maps.me">
+    <mwm:name>
+      <mwm:lang code="default">My Places</mwm:lang>
+    </mwm:name>
+    <mwm:annotation>
+    </mwm:annotation>
     <mwm:description>
     </mwm:description>
     <mwm:lastModified>2018-08-23T07:16:23Z</mwm:lastModified>
