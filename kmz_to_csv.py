@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 
-inputfile = "my_places.kml"
+inputfile = "my_places1.kml"
 with open(inputfile, 'r') as f:
     soup = BeautifulSoup(f)
 
@@ -12,7 +12,7 @@ with open(inputfile, 'r') as f:
     joined = []
 
     for node in soup.select('name'):
-        if 'My Places' not in node:
+        if 'My Places' and 'My Places1' not in node:
             name.append(str(node))
 
     for node in soup.select('coordinates'):
@@ -22,15 +22,18 @@ with open(inputfile, 'r') as f:
         datetime.append(str(node))
 
     for i in range(len(name)):
-        namestr = name[i].strip('<name>')
-        namestr = namestr.strip('</name>')
+        namestr = name[i].replace('<name>', '')
+        namestr = namestr.replace('</name>', '')
         
-        datestr = datetime[i].strip('<TimeStamp><when>')
-        datestr = datestr.strip('</when></timestamp>')
+        datestr = datetime[i].replace('<TimeStamp><when>', '')
+        datestr = datestr.replace('</when></timestamp>', '')
+        datestr = datestr.replace('<timestamp><when>', '')
         datestr = datestr[0:10]
 
-        coordstr = coords[i].strip('<Point><coordinates>')
-        coordstr = coordstr.strip('</coordinates></Point>')
+        coordstr = coords[i].replace('<Point>', '')
+        coordstr = coordstr.replace('</Point>', '')
+        coordstr = coordstr.replace('<coordinates>', '')
+        coordstr = coordstr.replace('</coordinates>', '')
 
         joined.append(namestr + ' ' + datestr + ', ' + coordstr)
     
