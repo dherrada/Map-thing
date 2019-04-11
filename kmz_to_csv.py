@@ -24,7 +24,7 @@ with open(inputfile, 'r') as f:
     for i in range(len(name)):
         namestr = name[i].replace('<name>', '')
         namestr = namestr.replace('</name>', '')
-        
+
         datestr = datetime[i].replace('<TimeStamp><when>', '')
         datestr = datestr.replace('</when></timestamp>', '')
         datestr = datestr.replace('<timestamp><when>', '')
@@ -36,7 +36,7 @@ with open(inputfile, 'r') as f:
         coordstr = coordstr.replace('</coordinates>', '')
 
         joined.append(namestr + ' ' + datestr + ', ' + coordstr)
-    
+
 for i in joined:
     with open('my_places.csv', 'a') as f:
         f.write(i + '\n')
