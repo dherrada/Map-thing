@@ -7,13 +7,12 @@ with open(inputfile, 'r') as f:
     # After you have a soup object, you can access tags very easily.
     # For instance, you can iterate over and get <description> like so:
     name = []
-    coords = []
-    datetime = []
+    coords = ['']
+    datetime = ['']
     joined = []
 
     for node in soup.select('name'):
-        if 'My Places' and 'My Places1' not in node:
-            name.append(str(node))
+        name.append(str(node))
 
     for node in soup.select('coordinates'):
         coords.append(str(node))
@@ -24,6 +23,9 @@ with open(inputfile, 'r') as f:
     for i in range(len(name)):
         namestr = name[i].replace('<name>', '')
         namestr = namestr.replace('</name>', '')
+        namestr = namestr.replace('<![CDATA[', '')
+        namestr = namestr.replace(']]>', '')
+        namestr = namestr.strip(',')
 
         datestr = datetime[i].replace('<TimeStamp><when>', '')
         datestr = datestr.replace('</when></timestamp>', '')
