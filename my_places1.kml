@@ -1,0 +1,2426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <name>My Places1</name>
+  <visibility>1</visibility>
+  <ExtendedData xmlns:mwm="https://maps.me">
+    <mwm:name>
+      <mwm:lang code="default">My Places1</mwm:lang>
+    </mwm:name>
+    <mwm:annotation>
+    </mwm:annotation>
+    <mwm:description>
+    </mwm:description>
+    <mwm:lastModified>2019-04-09T14:26:26Z</mwm:lastModified>
+    <mwm:accessRules>Local</mwm:accessRules>
+  </ExtendedData>
+  <Placemark>
+    <name>Building</name>
+    <TimeStamp><when>2016-09-12T19:22:45Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>8.664753,50.108175</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Building</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Building</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>19</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Fianarantsoa</name>
+    <TimeStamp><when>2017-05-08T22:25:20Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.090344,-21.44778</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Fianarantsoa</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Fianarantsoa</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Moramanga</name>
+    <TimeStamp><when>2017-05-08T22:26:32Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>48.230621,-18.943829</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Moramanga</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Moramanga</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Restaurant Little India</name>
+    <TimeStamp><when>2017-06-26T08:31:51Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.524135,-18.910293</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Restaurant Little India</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Restaurant Little India</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>19</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Hôtel-Restaurant Niaouly</name>
+    <TimeStamp><when>2017-06-26T10:48:01Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.529531,-18.914354</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Hôtel-Restaurant Niaouly</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Hôtel-Restaurant Niaouly</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>19</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Catholic Cathedral of Andohalo</name>
+    <TimeStamp><when>2017-06-26T12:37:58Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.53072,-18.917742</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Catholic Cathedral of Andohalo</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Catholic Cathedral of Andohalo</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Maison Jean Laborde</name>
+    <TimeStamp><when>2017-06-26T12:39:23Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.531138,-18.917947</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Maison Jean Laborde</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Maison Jean Laborde</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Andafiavaratra</name>
+    <TimeStamp><when>2017-06-26T12:40:06Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.532844,-18.920911</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Andafiavaratra</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Andafiavaratra</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Viewpoint</name>
+    <TimeStamp><when>2017-06-26T12:40:12Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.531092,-18.92444</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Viewpoint</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Viewpoint</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Rova</name>
+    <TimeStamp><when>2017-06-26T14:05:28Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.532184,-18.923501</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Rova</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Rova</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Saka-Express</name>
+    <TimeStamp><when>2017-06-26T15:17:39Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.521576,-18.908171</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Saka-Express</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Saka-Express</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Café de la Gare (Soarano)</name>
+    <TimeStamp><when>2017-06-26T15:18:52Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.520723,-18.903585</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Café de la Gare (Soarano)</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Café de la Gare (Soarano)</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Grace Lodge</name>
+    <TimeStamp><when>2017-06-27T10:32:00Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>48.410471,-18.947662</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Grace Lodge</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Grace Lodge</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Feon'Ny Ala</name>
+    <TimeStamp><when>2017-06-27T10:32:31Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>48.418547,-18.946939</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Feon'Ny Ala</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Feon'Ny Ala</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Vakôna Forest Lodge</name>
+    <TimeStamp><when>2017-06-27T10:33:17Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>48.435104,-18.889679</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Vakôna Forest Lodge</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Vakôna Forest Lodge</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>CSB II Ambohibary</name>
+    <TimeStamp><when>2017-06-27T12:37:15Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>48.22781,-18.916162</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">CSB II Ambohibary</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">CSB II Ambohibary</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Morondava</name>
+    <TimeStamp><when>2017-06-29T07:37:46Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.279392,-20.289634</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Morondava</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Morondava</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>9</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Trecigogne</name>
+    <TimeStamp><when>2017-06-29T09:03:27Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.268842,-20.301882</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Trecigogne</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Trecigogne</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>18</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>La Campannina</name>
+    <TimeStamp><when>2017-06-30T09:00:35Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.269432,-20.296363</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">La Campannina</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">La Campannina</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>19</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Belo sur Tsiribihina</name>
+    <TimeStamp><when>2017-07-01T10:13:27Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.548355,-19.701444</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Belo sur Tsiribihina</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Belo sur Tsiribihina</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Mad Zébu</name>
+    <TimeStamp><when>2017-07-03T07:58:20Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.546027,-19.70377</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Mad Zébu</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Mad Zébu</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Belo sur Mer</name>
+    <TimeStamp><when>2017-07-05T07:31:16Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.002005,-20.736302</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Belo sur Mer</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Belo sur Mer</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ecolodge de Menabe</name>
+    <TimeStamp><when>2017-07-05T16:19:22Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>43.995461,-20.745651</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Ecolodge de Menabe</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Ecolodge de Menabe</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>19</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Andranopasy</name>
+    <TimeStamp><when>2017-07-06T07:52:30Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>43.740538,-21.278379</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Andranopasy</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Andranopasy</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>14</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Morombe</name>
+    <TimeStamp><when>2017-07-06T07:53:35Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>43.360558,-21.743955</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Morombe</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Morombe</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-07-06T09:44:10Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>43.739062,-21.277732</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">My Position</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">My Position</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>19</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Andavadoaka</name>
+    <TimeStamp><when>2017-07-07T03:49:30Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>43.238099,-22.073602</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Andavadoaka</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Andavadoaka</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>11</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Coco Beach</name>
+    <TimeStamp><when>2017-07-09T02:26:40Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>43.235117,-22.076412</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Coco Beach</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Coco Beach</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Salary Avaratra</name>
+    <TimeStamp><when>2017-07-10T16:44:40Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>43.289259,-22.579475</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Salary Avaratra</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Salary Avaratra</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <description>Pavement starts</description>
+    <TimeStamp><when>2017-07-11T21:27:05Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>43.595909,-23.066886</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">My Position</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">Pavement starts</mwm:lang>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">My Position</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>14</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>L'Escapade</name>
+    <TimeStamp><when>2017-07-12T09:17:49Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>43.679789,-23.354533</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">L'Escapade</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">L'Escapade</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ranohira</name>
+    <TimeStamp><when>2017-07-12T10:24:43Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>45.415707,-22.557214</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Ranohira</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Ranohira</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>12</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Le Palmier</name>
+    <TimeStamp><when>2017-07-12T17:18:45Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>43.675082,-23.348047</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Le Palmier</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Le Palmier</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Orchidée de l'Isalo</name>
+    <TimeStamp><when>2017-07-13T13:49:16Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>45.414207,-22.556587</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Orchidée de l'Isalo</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Orchidée de l'Isalo</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Forest</name>
+    <TimeStamp><when>2017-07-15T06:31:15Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.77815,-19.029897</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Forest</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Forest</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Petits Tsingy</name>
+    <TimeStamp><when>2017-07-15T06:32:01Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>44.812942,-19.141207</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Petits Tsingy</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Petits Tsingy</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ambalavao</name>
+    <TimeStamp><when>2017-07-15T07:23:50Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>46.937474,-21.831986</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Ambalavao</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Ambalavao</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Church</name>
+    <TimeStamp><when>2017-07-15T12:21:06Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.103669,-21.409796</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Church</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Church</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Zomatel</name>
+    <TimeStamp><when>2017-07-15T13:11:21Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.08672,-21.454755</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Zomatel</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Zomatel</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Gite Le Rianala</name>
+    <TimeStamp><when>2017-07-16T14:00:15Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.421328,-21.255771</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Gite Le Rianala</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Gite Le Rianala</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2017-07-17T10:03:28Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.09416,-21.440531</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">My Position</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">My Position</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>19</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ecole Hôtelière La Rizière</name>
+    <TimeStamp><when>2017-07-17T14:56:47Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.078584,-21.45815</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Ecole Hôtelière La Rizière</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Ecole Hôtelière La Rizière</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ambositra</name>
+    <TimeStamp><when>2017-07-18T05:45:00Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.244855,-20.533052</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Ambositra</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Ambositra</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>12</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Antsirabe</name>
+    <TimeStamp><when>2017-07-18T05:45:27Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.034666,-19.871403</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Antsirabe</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Antsirabe</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>12</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Hasina</name>
+    <TimeStamp><when>2017-07-18T13:20:31Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.035278,-19.86797</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Hasina</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Hasina</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Chez Jenny</name>
+    <TimeStamp><when>2017-07-18T15:06:06Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.037115,-19.869748</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Chez Jenny</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Chez Jenny</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Le Pousse-Pousse</name>
+    <TimeStamp><when>2017-07-18T15:32:21Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.03332,-19.872934</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Le Pousse-Pousse</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Le Pousse-Pousse</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Viewpoint</name>
+    <TimeStamp><when>2017-07-19T11:00:32Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>47.562869,-18.760963</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Viewpoint</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Viewpoint</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Lower Sabie Rest Camp</name>
+    <TimeStamp><when>2017-07-23T06:17:49Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>31.916728,-25.120202</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Lower Sabie Rest Camp</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Lower Sabie Rest Camp</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>13</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Letaba Rest Camp</name>
+    <TimeStamp><when>2017-07-24T10:44:09Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>31.576672,-23.85438</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Letaba Rest Camp</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Letaba Rest Camp</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>The Pinnacle</name>
+    <TimeStamp><when>2017-07-24T10:53:22Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>30.854152,-24.911614</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">The Pinnacle</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">The Pinnacle</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Viewpoint</name>
+    <TimeStamp><when>2017-07-24T10:53:41Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>30.88865,-24.876746</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Viewpoint</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Viewpoint</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Lisbon Falls</name>
+    <TimeStamp><when>2017-07-24T10:55:49Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>30.83539,-24.860836</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Lisbon Falls</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Lisbon Falls</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bourke's Luck Potholes</name>
+    <TimeStamp><when>2017-07-24T10:56:12Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>30.810872,-24.674232</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Bourke's Luck Potholes</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Bourke's Luck Potholes</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Three Rondavels</name>
+    <TimeStamp><when>2017-07-24T10:57:31Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>30.798949,-24.57375</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Three Rondavels</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Three Rondavels</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Cullinan</name>
+    <TimeStamp><when>2017-07-24T11:39:44Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.528889,-25.670555</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Cullinan</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Cullinan</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>10</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Premier Diamond Mine</name>
+    <TimeStamp><when>2017-07-24T11:50:22Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.514087,-25.675612</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Premier Diamond Mine</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Premier Diamond Mine</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Sammy Marks</name>
+    <TimeStamp><when>2017-07-24T11:50:56Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.380243,-25.750153</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Sammy Marks</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Sammy Marks</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name><![CDATA[Sheri's Lodge & Backpackers]]></name>
+    <TimeStamp><when>2017-07-24T12:35:37Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>30.842294,-24.933934</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default"><![CDATA[Sheri's Lodge & Backpackers]]></mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default"><![CDATA[Sheri's Lodge & Backpackers]]></mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Nhlanganini Dam Viewpoint</name>
+    <TimeStamp><when>2017-07-24T14:05:40Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>31.495141,-23.933301</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Nhlanganini Dam Viewpoint</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Nhlanganini Dam Viewpoint</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>18</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>God's Window</name>
+    <TimeStamp><when>2017-07-25T14:41:03Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>30.889066,-24.876435</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">God's Window</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">God's Window</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Wonderview</name>
+    <TimeStamp><when>2017-07-25T14:41:17Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>30.896818,-24.868383</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Wonderview</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Wonderview</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Pilgrim's Rest</name>
+    <TimeStamp><when>2017-07-25T14:43:15Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>30.753617,-24.904369</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Pilgrim's Rest</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Pilgrim's Rest</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>12</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Hospital</name>
+    <TimeStamp><when>2017-07-26T06:35:20Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.515687,-25.665742</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Hospital</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Hospital</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>18</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Premier Diamond Tours</name>
+    <TimeStamp><when>2017-07-27T06:22:41Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.5163,-25.67133</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Premier Diamond Tours</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Premier Diamond Tours</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <TimeStamp><when>2017-07-30T06:10:17Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>27.912194,-26.219359</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Unknown Place</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Unknown Place</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>18</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Lion park</name>
+    <TimeStamp><when>2017-07-30T06:26:36Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>27.891727,-25.822964</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Lion park</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Lion park</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Krispy Kreme doughnuts</name>
+    <TimeStamp><when>2017-07-30T14:00:49Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.042934,-26.145019</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Krispy Kreme doughnuts</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Krispy Kreme doughnuts</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Pelindaba</name>
+    <TimeStamp><when>2017-07-30T19:34:54Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>27.919432,-25.798733</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Pelindaba</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Pelindaba</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>12</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Pick n Pay Super</name>
+    <TimeStamp><when>2017-07-31T11:07:21Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.316428,-28.230767</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Pick n Pay Super</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Pick n Pay Super</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>18</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name><![CDATA[Clarens Inn & Backpackers]]></name>
+    <TimeStamp><when>2017-07-31T13:26:09Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.413275,-28.515752</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default"><![CDATA[Clarens Inn & Backpackers]]></mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default"><![CDATA[Clarens Inn & Backpackers]]></mwm:lang>
+      </mwm:customName>
+      <mwm:scale>18</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Generaalskop Viewpoint</name>
+    <TimeStamp><when>2017-08-01T12:44:00Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.62931,-28.52928</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Generaalskop Viewpoint</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Generaalskop Viewpoint</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Oribi Loop</name>
+    <TimeStamp><when>2017-08-01T12:44:36Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.654391,-28.506186</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Oribi Loop</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Oribi Loop</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Harrismith</name>
+    <TimeStamp><when>2017-08-01T12:45:53Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>29.129459,-28.272772</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Harrismith</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Harrismith</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>9</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Platberg Harrismith Backpackers</name>
+    <TimeStamp><when>2017-08-01T15:28:09Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>29.129457,-28.269678</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Platberg Harrismith Backpackers</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Platberg Harrismith Backpackers</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Mantis and Moon Backpackers Lodge</name>
+    <TimeStamp><when>2017-08-02T08:59:13Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>30.542313,-30.624273</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Mantis and Moon Backpackers Lodge</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Mantis and Moon Backpackers Lodge</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>1322 Backpackers</name>
+    <TimeStamp><when>2017-08-03T14:13:16Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.24582,-25.746656</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">1322 Backpackers</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">1322 Backpackers</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Nederduitse Gereformeerde Kerk</name>
+    <TimeStamp><when>2017-08-03T14:18:14Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>27.086925,-26.691895</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Nederduitse Gereformeerde Kerk</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Nederduitse Gereformeerde Kerk</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <description>424 Clark Street. Peter's house</description>
+    <TimeStamp><when>2017-08-03T14:21:39Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>28.246716,-25.773052</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Unknown Place</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">424 Clark Street. Peter's house</mwm:lang>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Unknown Place</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Tzaneen</name>
+    <TimeStamp><when>2017-08-05T12:44:04Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>30.161101,-23.831933</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Tzaneen</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Tzaneen</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>9</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Хан Шатыр</name>
+    <TimeStamp><when>2018-06-23T12:27:19Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>71.403958,51.132508</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Хан Шатыр</mwm:lang>
+        <mwm:lang code="en">Khan Shatyr</mwm:lang>
+        <mwm:lang code="de">Khan Shatyr</mwm:lang>
+        <mwm:lang code="ja">ハーン・シャティア</mwm:lang>
+        <mwm:lang code="int_name">Khan Shatyr</mwm:lang>
+        <mwm:lang code="ru">Хан Шатыр</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>shop-mall</mwm:value>
+        <mwm:value>wheelchair-yes</mwm:value>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>15</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Астана-Байтерек</name>
+    <TimeStamp><when>2018-06-23T12:27:53Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>71.430515,51.128284</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Астана-Байтерек</mwm:lang>
+        <mwm:lang code="en">Bayterek</mwm:lang>
+        <mwm:lang code="kk">Астана-Бәйтерек</mwm:lang>
+        <mwm:lang code="de">Bajterek-Turm</mwm:lang>
+        <mwm:lang code="ja">バイテレック・タワー・タワー</mwm:lang>
+        <mwm:lang code="ru">Астана-Байтерек</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>historic-monument</mwm:value>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Sights</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Дворец мира и согласия</name>
+    <TimeStamp><when>2018-06-23T12:32:00Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>71.463639,51.123025</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Дворец мира и согласия</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-community_centre</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Национальный музей Республики Казахстан</name>
+    <TimeStamp><when>2018-06-23T12:32:38Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>71.469382,51.118231</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Национальный музей Республики Казахстан</mwm:lang>
+        <mwm:lang code="ja">国立博物館</mwm:lang>
+        <mwm:lang code="ru">Национальный музей Республики Казахстан</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>15</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>мечеть "Нур-Астана"</name>
+    <TimeStamp><when>2018-06-23T12:33:46Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>71.415724,51.126663</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">мечеть "Нур-Астана"</mwm:lang>
+        <mwm:lang code="en">Nur Astana Mosque</mwm:lang>
+        <mwm:lang code="ja">ヌル・アスタナ・モスク</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship-muslim</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>15</mwm:scale>
+      <mwm:icon>Islam</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Военно-исторический музей</name>
+    <TimeStamp><when>2018-06-23T12:35:09Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>71.431576,51.155621</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Военно-исторический музей</mwm:lang>
+        <mwm:lang code="en">Military History Museum</mwm:lang>
+        <mwm:lang code="ru">Военно-исторический музей</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>14</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <TimeStamp><when>2018-06-24T06:11:35Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>70.933395,51.101542</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Unknown Place</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Unknown Place</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Нурлы Жол</name>
+    <TimeStamp><when>2018-06-25T02:24:51Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>71.531776,51.11239</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Нурлы Жол</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>railway-station</mwm:value>
+        <mwm:value>building-train_station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>14</mwm:scale>
+      <mwm:icon>Building</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Алматы-2</name>
+    <TimeStamp><when>2018-06-26T01:22:39Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>76.939371,43.274</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Алматы-2</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>railway-station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Алматы 1</name>
+    <TimeStamp><when>2018-06-26T01:23:24Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>76.949022,43.340995</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Алматы 1</mwm:lang>
+        <mwm:lang code="en">Almaty Railway Station 1</mwm:lang>
+        <mwm:lang code="ja">アルマトイ1</mwm:lang>
+        <mwm:lang code="int_name">Almaty Railway Station 1</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>railway-station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Театр оперы и балета им. Абая</name>
+    <TimeStamp><when>2018-06-26T03:09:57Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>76.945854,43.248733</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Театр оперы и балета им. Абая</mwm:lang>
+        <mwm:lang code="en">Kazakh State Academic Opera and Ballet House named after Abay</mwm:lang>
+        <mwm:lang code="de">Staatliches Kasachisches akademisches Abai Opern- und Balletthaus</mwm:lang>
+        <mwm:lang code="ru">Театр оперы и балета им. Абая</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-theatre</mwm:value>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Entertainment</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Guest House on Sadovaya</name>
+    <TimeStamp><when>2018-06-26T03:10:31Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>76.964214,43.247484</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Guest House on Sadovaya</mwm:lang>
+        <mwm:lang code="zh">萨多瓦娅酒店</mwm:lang>
+        <mwm:lang code="en">Guest House on Sadovaya</mwm:lang>
+        <mwm:lang code="ja">ゲスト ハウス オン サドヴァヤ</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>tourism-guest_house</mwm:value>
+        <mwm:value>sponsored-booking</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Hotel</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Supermarkt</name>
+    <TimeStamp><when>2018-06-26T03:12:26Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>76.966851,43.251548</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Supermarkt</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>shop-supermarket</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Сайран</name>
+    <TimeStamp><when>2018-06-26T03:15:04Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>76.859675,43.246783</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Сайран</mwm:lang>
+        <mwm:lang code="en">Sayran</mwm:lang>
+        <mwm:lang code="ru">Сайран</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Kok Tobe Gondola</name>
+    <TimeStamp><when>2018-06-26T10:15:42Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>76.958997,43.242427</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Kok Tobe Gondola</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>aerialway-station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Viva Guesthouse Bishkek</name>
+    <TimeStamp><when>2018-06-27T01:28:07Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>74.571091,42.8789</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Viva Guesthouse Bishkek</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>tourism-guest_house</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Hotel</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Metro Pub</name>
+    <TimeStamp><when>2018-06-27T01:32:03Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>74.585202,42.876451</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Metro Pub</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-pub</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ошский рынок</name>
+    <TimeStamp><when>2018-06-27T01:35:40Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>74.566846,42.875591</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Ошский рынок</mwm:lang>
+        <mwm:lang code="en">Osh Bazaar</mwm:lang>
+        <mwm:lang code="de">Oschbasar</mwm:lang>
+        <mwm:lang code="int_name">Osh bazaar</mwm:lang>
+        <mwm:lang code="ru">Ошский рынок</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-marketplace</mwm:value>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>16</mwm:scale>
+      <mwm:icon>Shop</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bushaltestelle</name>
+    <TimeStamp><when>2018-06-27T01:35:56Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>74.568095,42.873776</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Bushaltestelle</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>highway-bus_stop</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>16</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ozyurt</name>
+    <TimeStamp><when>2018-06-27T05:51:32Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>76.923785,43.24105</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Ozyurt</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Площадь Астаны</name>
+    <TimeStamp><when>2018-06-27T08:17:10Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>76.943011,43.256761</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Площадь Астаны</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>leisure-park</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>15</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Khachapuri</name>
+    <TimeStamp><when>2018-06-27T12:44:49Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>76.957559,43.250453</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Khachapuri</mwm:lang>
+        <mwm:lang code="en">Khachapuri</mwm:lang>
+        <mwm:lang code="ru">Хачапури Хинкалевич</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>18</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Chilipeppers</name>
+    <TimeStamp><when>2018-06-28T08:52:49Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>74.589029,42.875476</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Chilipeppers</mwm:lang>
+        <mwm:lang code="de">Chilipeppers</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>internet_access-wlan</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ала-Тоо площадь</name>
+    <TimeStamp><when>2018-06-28T08:55:09Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>74.603631,42.875312</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Ала-Тоо площадь</mwm:lang>
+        <mwm:lang code="en">Ala Too Square</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>leisure-park</mwm:value>
+        <mwm:value>highway-pedestrian-area</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>площадь Победы</name>
+    <TimeStamp><when>2018-06-28T08:56:05Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>74.61602,42.879503</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">площадь Победы</mwm:lang>
+        <mwm:lang code="en">Victory Square</mwm:lang>
+        <mwm:lang code="ru">площадь Победы</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>leisure-common</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Музей ИЗО им. Гапара Айтиева</name>
+    <TimeStamp><when>2018-06-28T08:57:16Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>74.610889,42.878713</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Музей ИЗО им. Гапара Айтиева</mwm:lang>
+        <mwm:lang code="en">Museum of Fine Arts</mwm:lang>
+        <mwm:lang code="de">Museum der Bildenden Künste</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>tourism-museum</mwm:value>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Museum</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <TimeStamp><when>2018-06-28T10:43:36Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>74.56926,42.873839</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">My Position</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">My Position</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Fast-Food</name>
+    <TimeStamp><when>2018-06-28T11:32:23Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>74.591344,42.87602</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Fast-Food</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-fast_food</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>19</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Waffle BOOM</name>
+    <TimeStamp><when>2018-06-28T11:34:03Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>74.592645,42.876034</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">ATM</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-atm</mwm:value>
+      </mwm:featureTypes>
+      <mwm:customName>
+        <mwm:lang code="default">Waffle BOOM</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>19</mwm:scale>
+      <mwm:icon>Exchange</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Teskeys Guest House</name>
+    <TimeStamp><when>2018-06-30T09:27:05Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>78.40684,42.490572</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Teskeys Guest House</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>tourism-guest_house</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>19</mwm:scale>
+      <mwm:icon>Hotel</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Gebäude</name>
+    <TimeStamp><when>2018-06-30T10:51:24Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>78.415206,42.485961</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Gebäude</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>18</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Unknown Place</name>
+    <description>102 to Mal Bazaar to go to the animal market</description>
+    <TimeStamp><when>2018-07-01T03:15:56Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>78.40288,42.490053</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Unknown Place</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">102 to Mal Bazaar to go to the animal market</mwm:lang>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">Unknown Place</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>18</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Собор Святой Троицы</name>
+    <TimeStamp><when>2018-07-01T03:26:48Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>78.394912,42.489233</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Собор Святой Троицы</mwm:lang>
+        <mwm:lang code="en">Holy Trinity Cathedral</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-place_of_worship-christian</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>16</mwm:scale>
+      <mwm:icon>Christianity</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Fat Cat</name>
+    <TimeStamp><when>2018-07-01T07:08:44Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>78.395883,42.490655</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Fat Cat</mwm:lang>
+        <mwm:lang code="en">Fat Cat</mwm:lang>
+        <mwm:lang code="de">Fat Cat</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+        <mwm:value>internet_access-wlan</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Автовокзал</name>
+    <TimeStamp><when>2018-07-01T10:08:02Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>78.393056,42.504718</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Автовокзал</mwm:lang>
+        <mwm:lang code="en">Long Distance Bus Station</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-bus_station</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <description>Shelter</description>
+    <TimeStamp><when>2018-07-01T10:08:27Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>78.389363,42.498656</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">My Position</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">Shelter</mwm:lang>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">My Position</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Dzheti Oguz</name>
+    <TimeStamp><when>2018-07-01T10:10:47Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>78.236354,42.333</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Dzheti Oguz</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>tourism-attraction</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>15</mwm:scale>
+      <mwm:icon>Sights</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Кафе Кенч</name>
+    <TimeStamp><when>2018-07-01T13:49:31Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>78.407846,42.486796</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Кафе Кенч</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-cafe</mwm:value>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Bushaltestelle</name>
+    <TimeStamp><when>2018-07-02T03:12:59Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>78.387222,42.48753</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Bushaltestelle</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>highway-bus_stop</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Main Bazaar</name>
+    <TimeStamp><when>2018-07-02T03:17:07Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>78.38431,42.493226</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Main Bazaar</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>tourism-attraction</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>16</mwm:scale>
+      <mwm:icon>Sights</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Vinoteka</name>
+    <TimeStamp><when>2018-07-02T13:27:41Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>74.593997,42.875936</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Vinoteka</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>pur:pur</name>
+    <TimeStamp><when>2018-07-02T13:28:19Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>74.589928,42.880433</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">pur:pur</mwm:lang>
+        <mwm:lang code="en">pur:pur</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>internet_access-wlan</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Osh Guesthouse</name>
+    <TimeStamp><when>2018-07-03T10:46:25Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>72.800111,40.545936</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Osh Guesthouse</mwm:lang>
+        <mwm:lang code="zh">奥什宾馆</mwm:lang>
+        <mwm:lang code="en">Osh Guesthouse</mwm:lang>
+        <mwm:lang code="ja">オシ ゲストハウス</mwm:lang>
+        <mwm:lang code="ko">오슈 게스트하우스</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>tourism-guest_house</mwm:value>
+        <mwm:value>sponsored-booking</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Hotel</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Ош Ордо</name>
+    <TimeStamp><when>2018-07-04T05:37:27Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>72.792767,40.52877</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Ош Ордо</mwm:lang>
+        <mwm:lang code="en">Osh-Ordo</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>amenity-restaurant</mwm:value>
+        <mwm:value>building</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Food</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Қарокӯл</name>
+    <TimeStamp><when>2018-07-04T07:37:10Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>73.559965,39.01252</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Қарокӯл</mwm:lang>
+        <mwm:lang code="en">Karakul</mwm:lang>
+        <mwm:lang code="de">Karakul</mwm:lang>
+        <mwm:lang code="int_name">Karakul</mwm:lang>
+        <mwm:lang code="ru">Каракуль</mwm:lang>
+        <mwm:lang code="fa">قره‌کول</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>place-village</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>12</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Мурғоб</name>
+    <TimeStamp><when>2018-07-04T07:37:37Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>73.966901,38.170957</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Мурғоб</mwm:lang>
+        <mwm:lang code="pl">Murgob</mwm:lang>
+        <mwm:lang code="en">Murghab</mwm:lang>
+        <mwm:lang code="de">Murghab</mwm:lang>
+        <mwm:lang code="ja">ムルガブ</mwm:lang>
+        <mwm:lang code="int_name">Murghab</mwm:lang>
+        <mwm:lang code="ru">Мургаб</mwm:lang>
+        <mwm:lang code="uk">Мургаб</mwm:lang>
+        <mwm:lang code="fa">مرغاب</mwm:lang>
+        <mwm:lang code="lt">Murgabas</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>place-town</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>9</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Лангар</name>
+    <TimeStamp><when>2018-07-04T07:38:44Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>72.67537,37.052342</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Лангар</mwm:lang>
+        <mwm:lang code="zh">兰格尔</mwm:lang>
+        <mwm:lang code="en">Langar</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>place-village</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>12</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Yamchun</name>
+    <TimeStamp><when>2018-07-04T07:39:34Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>72.268763,36.963015</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Yamchun</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>place-village</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>12</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>My Position</name>
+    <description>East Pamir Guesthouse</description>
+    <TimeStamp><when>2018-07-06T07:32:20Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>73.975721,38.17893</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">My Position</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+        <mwm:lang code="default">East Pamir Guesthouse</mwm:lang>
+      </mwm:description>
+      <mwm:customName>
+        <mwm:lang code="default">My Position</mwm:lang>
+      </mwm:customName>
+      <mwm:scale>19</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>White Fish Spring</name>
+    <TimeStamp><when>2018-07-07T06:23:22Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>73.392217,37.793437</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">White Fish Spring</mwm:lang>
+        <mwm:lang code="en">White Fish Spring (Ak-Balyk)</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>natural-spring</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+      <mwm:icon>Water</mwm:icon>
+    </ExtendedData>
+  </Placemark>
+  <Placemark>
+    <name>Булункул (Bulunkul)</name>
+    <TimeStamp><when>2018-07-07T06:27:00Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>72.961642,37.721919</coordinates></Point>
+    <ExtendedData xmlns:mwm="https://maps.me">
+      <mwm:name>
+        <mwm:lang code="default">Булункул (Bulunkul)</mwm:lang>
+        <mwm:lang code="en">Bulunkul</mwm:lang>
+        <mwm:lang code="ru">Булункуль</mwm:lang>
+      </mwm:name>
+      <mwm:description>
+      </mwm:description>
+      <mwm:featureTypes>
+        <mwm:value>natural-water</mwm:value>
+      </mwm:featureTypes>
+      <mwm:scale>17</mwm:scale>
+    </ExtendedData>
+  </Placemark>
+</Document>
+</kml>
