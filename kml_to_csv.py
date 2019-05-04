@@ -12,7 +12,8 @@ with open(inputfile, 'r') as f:
     joined = []
 
     for node in soup.select('name'):
-        name.append(str(node))
+        node1 = str(node).strip(',')
+        name.append(str(node1))
 
     for node in soup.select('coordinates'):
         coords.append(str(node))
